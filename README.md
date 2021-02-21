@@ -10,10 +10,6 @@ O **Micro Machines** é um jogo de carros inspirado no retro Micro Machines, sen
 5. Implementação do Jogo em Gloss
 6. Implementar uma Estratégia de Corrida
 
-## Interface
-
-
-
 ## [Enunciado](https://github.com/chico2911/MicroMachines/tree/master/Enunciado)
 
 ## Development Team
